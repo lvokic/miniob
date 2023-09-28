@@ -3,6 +3,7 @@
 ./deps/googletest
 ./deps/jsoncpp
 ./deps/benchmark
+./deps
 .vscode
 !.vscode/tasks.json
 !.vscode/launch.json
